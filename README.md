@@ -9,3 +9,4 @@ I have made another test
 
 1. Create index.html
 2. Open index.html
+3. Have fun!
